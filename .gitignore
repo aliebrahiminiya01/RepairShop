@@ -1,0 +1,17 @@
+# Local database (contains customer data)
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# PyInstaller output
+build/
+dist/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
